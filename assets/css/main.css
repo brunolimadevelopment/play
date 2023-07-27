@@ -1,0 +1,107 @@
+/*!
+* Copyright: 2018 Convertte - http://www.convertte.com.br.
+* Desenvolvedor(es): Bruno Lima | Convertte
+*/
+@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap");
+.playfz--uu-large {
+  font-size: 67px;
+}
+
+.playfz--u-large {
+  font-size: 48px;
+}
+
+.playfz--hhh-large {
+  font-size: 44px;
+}
+
+.playfz--hh-large {
+  font-size: 36px;
+}
+
+.playfz--h-large {
+  font-size: 32px;
+}
+
+.playfz--xxx-large {
+  font-size: 30px;
+}
+
+.playfz--xx-large {
+  font-size: 27px;
+}
+
+.playfz--x-large {
+  font-size: 24px;
+}
+
+.playfz--large {
+  font-size: 20px;
+}
+
+.playfz--x-medium {
+  font-size: 18px;
+}
+
+.playfz--medium {
+  font-size: 16px;
+}
+
+.playfz--small {
+  font-size: 14px;
+}
+
+.playfz--x-small {
+  font-size: 12px;
+}
+
+.playfz--xx-small {
+  font-size: 10px;
+}
+
+*,
+*:after,
+*::before {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*:focus {
+  outline: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background: cl(main, white);
+  font-family: "PT Sans", Arial, helvetica, sans-serif;
+  font-size: 16px;
+  min-width: 240px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.play-header {
+  height: 100px;
+  background: black;
+  color: white;
+}
+
+#teste {
+  background-color: red;
+}
+
+.footer {
+  background-color: red;
+}

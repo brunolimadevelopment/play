@@ -1,0 +1,38 @@
+//==========================================================================
+// RESET / RESET GLOBAL DEFAULT
+//==========================================================================
+
+@charset "UTF-8";
+
+*,
+*:after,
+*::before {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+*:focus {
+	outline: none;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+html,
+body {
+	background: cl(main, white);
+	font-family: $font-default;
+	font-size: 16px;
+	min-width: 240px;
+}
+
+
+
+// Ul
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+// Link
+a { text-decoration: none; }
