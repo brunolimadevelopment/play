@@ -1,10 +1,5 @@
-jQuery(function($) {
-  $(document).ready(function() {
-
- 
-    
-      
+jQuery(function ($) {
+  $(document).ready(function () {
+    console.log("teste");
   });
 });
-
-
